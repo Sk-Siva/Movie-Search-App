@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sk-Siva/Vaapas-Movie-Search-App.git/static/css/main.e6c13ad2.css",
+    "main.js": "/Sk-Siva/Vaapas-Movie-Search-App.git/static/js/main.e101c948.js",
+    "static/js/453.252cee70.chunk.js": "/Sk-Siva/Vaapas-Movie-Search-App.git/static/js/453.252cee70.chunk.js",
+    "index.html": "/Sk-Siva/Vaapas-Movie-Search-App.git/index.html",
+    "main.e6c13ad2.css.map": "/Sk-Siva/Vaapas-Movie-Search-App.git/static/css/main.e6c13ad2.css.map",
+    "main.e101c948.js.map": "/Sk-Siva/Vaapas-Movie-Search-App.git/static/js/main.e101c948.js.map",
+    "453.252cee70.chunk.js.map": "/Sk-Siva/Vaapas-Movie-Search-App.git/static/js/453.252cee70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e101c948.js"
+  ]
+}
