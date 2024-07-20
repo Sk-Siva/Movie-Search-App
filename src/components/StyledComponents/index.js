@@ -33,6 +33,9 @@ width:300px;
 border:1px solid;
 border-radius:10px;
 padding:5px;
+@media (max-width:767px){
+  width:250px;
+}
 `
 export const Input = styled.input`
 background:none;
@@ -41,6 +44,9 @@ outline:none;
 padding:10px;
 background-color:transparent;
 width:250px;
+@media (max-width:767px){
+  width:200px;
+}
 `
 export const Button = styled.button`
 background-color:${props => props.bgcolor};
