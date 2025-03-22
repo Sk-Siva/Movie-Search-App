@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Vaapas-Movie-Search-App/static/css/main.e6c13ad2.css",
-    "main.js": "/Vaapas-Movie-Search-App/static/js/main.504a394c.js",
-    "static/js/13.20d1c8e6.chunk.js": "/Vaapas-Movie-Search-App/static/js/13.20d1c8e6.chunk.js",
-    "index.html": "/Vaapas-Movie-Search-App/index.html",
-    "main.e6c13ad2.css.map": "/Vaapas-Movie-Search-App/static/css/main.e6c13ad2.css.map",
-    "main.504a394c.js.map": "/Vaapas-Movie-Search-App/static/js/main.504a394c.js.map",
-    "13.20d1c8e6.chunk.js.map": "/Vaapas-Movie-Search-App/static/js/13.20d1c8e6.chunk.js.map"
+    "main.css": "/Movie-Search-App/static/css/main.e6c13ad2.css",
+    "main.js": "/Movie-Search-App/static/js/main.e11ef54b.js",
+    "static/js/453.252cee70.chunk.js": "/Movie-Search-App/static/js/453.252cee70.chunk.js",
+    "index.html": "/Movie-Search-App/index.html",
+    "main.e6c13ad2.css.map": "/Movie-Search-App/static/css/main.e6c13ad2.css.map",
+    "main.e11ef54b.js.map": "/Movie-Search-App/static/js/main.e11ef54b.js.map",
+    "453.252cee70.chunk.js.map": "/Movie-Search-App/static/js/453.252cee70.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.504a394c.js"
+    "static/js/main.e11ef54b.js"
   ]
 }
